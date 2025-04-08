@@ -1,5 +1,5 @@
-** Cs 178 Project 1 Introduction
-*This is Italicized 
+** Cs 178 Project 1 Introduction**
+*This is Italicized *
 
 **This is bold**
 
