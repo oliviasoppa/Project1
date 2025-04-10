@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <body>
 
 <h1>Heading</h1>
 <p>Paragraph</p>
-
+<h1>List of Countries</h1>
+<ul>
+    {% for country in countries %}
+        <li>{{ country[0] }}</li>
+    {% endfor %}
+</ul>
 </body>
 </html>
